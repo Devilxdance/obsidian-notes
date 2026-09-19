@@ -4,9 +4,9 @@
 
 ## 原始笔记截图
 
-![PLL 截图 1](./attachments/PLL_543ffb54285a03b63dcaca811865bc442bd0f3ea2dbc2cb4a0b896caedd2243b.png)
+![PLL 截图 1](./PLL 锁相环 image/PLL_543ffb54285a03b63dcaca811865bc442bd0f3ea2dbc2cb4a0b896caedd2243b.png)
 
-![PLL 截图 2](./attachments/PLL_788a80e286c6c1dab30850c0db13621cf8722e1e2574bb21af6036294892860d.png)
+![PLL 截图 2](./PLL 锁相环 image/PLL_788a80e286c6c1dab30850c0db13621cf8722e1e2574bb21af6036294892860d.png)
 
 ---
 
